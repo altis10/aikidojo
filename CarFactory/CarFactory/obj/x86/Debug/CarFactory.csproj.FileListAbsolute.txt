@@ -1,0 +1,9 @@
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\CarFactory.Form1.resources
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\CarFactory.Properties.Resources.resources
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\bin\Debug\CarFactory.exe
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\bin\Debug\CarFactory.pdb
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\CarFactory.exe
+c:\users\tiberiua\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\CarFactory.pdb
