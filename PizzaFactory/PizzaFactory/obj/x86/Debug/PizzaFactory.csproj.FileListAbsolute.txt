@@ -1,0 +1,5 @@
+c:\users\tiberiua\documents\visual studio 2010\Projects\PizzaFactory\PizzaFactory\bin\Debug\PizzaFactory.exe
+c:\users\tiberiua\documents\visual studio 2010\Projects\PizzaFactory\PizzaFactory\bin\Debug\PizzaFactory.pdb
+c:\users\tiberiua\documents\visual studio 2010\Projects\PizzaFactory\PizzaFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tiberiua\documents\visual studio 2010\Projects\PizzaFactory\PizzaFactory\obj\x86\Debug\PizzaFactory.exe
+c:\users\tiberiua\documents\visual studio 2010\Projects\PizzaFactory\PizzaFactory\obj\x86\Debug\PizzaFactory.pdb
