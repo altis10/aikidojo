@@ -5,11 +5,20 @@ using System.Text;
 
 namespace PizzaFactory
 {
-	class Pizza
+	public class PizzaStore
 	{
-		Pizza orderPizza()
+		SimplePizzaFactory factory;
+
+		public PizzaStore(SimplePizzaFactory factory)
 		{
-			Pizza pizza = new Pizza();
+			this.factory = factory;
+		}
+
+		public Pizza orderPizza(string type)
+		{
+			Pizza pizza;
+
+			pizza = factory.createPizza("");
 
 			pizza.prepare();
 			pizza.bake();
@@ -18,14 +27,5 @@ namespace PizzaFactory
 
 			return pizza;
 		}
-
-		void prepare()
-		{}
-		void bake()
-		{ }
-		void cut()
-		{ }
-		void box()
-		{ }
 	}
 }
