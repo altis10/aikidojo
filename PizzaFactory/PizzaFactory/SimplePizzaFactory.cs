@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Windows.Forms;
 
 namespace PizzaFactory
 {
@@ -32,16 +33,34 @@ namespace PizzaFactory
 		}
 	}
 
-	public class Pizza
+	public abstract class Pizza
 	{
+		string name;
+		string dough;
+		string sauce;
+		List<string> Toppings = new List<string>();
+
 		public void prepare()
-		{ }
+		{
+			MessageBox.Show("Preparing" + name);
+			MessageBox.Show("Tossing dough.");
+			MessageBox.Show("Adding sauce...");
+			MessageBox.Show("Ading toppings...");
+		}
 		public void bake()
-		{ }
+		{
+			MessageBox.Show("Baking");
+		}
 		public void cut()
-		{ }
+		{
+			MessageBox.Show("Cutting");
+		}
 		public void box()
-		{ }
+		{
+			MessageBox.Show("Boxing");
+		}
+
+
 	}
 
 	public class VeggiePizza : Pizza
